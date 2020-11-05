@@ -15,6 +15,7 @@
 		43D2806A2551A92D00DAD12E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43D280682551A92D00DAD12E /* LaunchScreen.storyboard */; };
 		43D280752551A92E00DAD12E /* ConcurrentDictionaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D280742551A92E00DAD12E /* ConcurrentDictionaryTests.swift */; };
 		43D280802551A92E00DAD12E /* ConcurrentDictionaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D2807F2551A92E00DAD12E /* ConcurrentDictionaryUITests.swift */; };
+		43D280912551A93D00DAD12E /* ConcurrentDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D280902551A93D00DAD12E /* ConcurrentDictionary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43D2807B2551A92E00DAD12E /* ConcurrentDictionaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConcurrentDictionaryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D2807F2551A92E00DAD12E /* ConcurrentDictionaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrentDictionaryUITests.swift; sourceTree = "<group>"; };
 		43D280812551A92E00DAD12E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43D280902551A93D00DAD12E /* ConcurrentDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcurrentDictionary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				43D280662551A92D00DAD12E /* Assets.xcassets */,
 				43D280682551A92D00DAD12E /* LaunchScreen.storyboard */,
 				43D2806B2551A92D00DAD12E /* Info.plist */,
+				43D280902551A93D00DAD12E /* ConcurrentDictionary.swift */,
 			);
 			path = ConcurrentDictionary;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				43D280622551A92900DAD12E /* ViewController.swift in Sources */,
 				43D2805E2551A92900DAD12E /* AppDelegate.swift in Sources */,
+				43D280912551A93D00DAD12E /* ConcurrentDictionary.swift in Sources */,
 				43D280602551A92900DAD12E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
